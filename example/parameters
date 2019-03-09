@@ -1,0 +1,24 @@
+#
+# this is an example runcard
+#
+
+# number of colloids
+npart  = 10
+
+# radii of the colloids
+rad = 1e-2
+
+# number of steps
+nsteps = 400000
+
+# info steps
+ninfo = 250
+
+# time step
+kBT = 1e-4
+
+# strength of potential
+eps = 1e-4
+
+# correction term?
+correction = false
